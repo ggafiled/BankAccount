@@ -4,12 +4,12 @@
 ## ตัวอย่างภาพหน้าจอระบบ
 ![หน้าจอสมัครสมาชิก](https://github.com/ggafiled/BankAccount/blob/master/img/register.PNG?raw=true)
 
-![หน้าการเปิดบัญชี](https://github.com/ggafiled/BankAccount/blob/master/img/createaccount.JPG?raw=true)
+![หน้าการเปิดบัญชี](https://github.com/ggafiled/BankAccount/blob/master/img/createaccount.jpg?raw=true)
 
-![หน้าการฝากเงิน](https://github.com/ggafiled/BankAccount/blob/master/img/deposit.JPG?raw=true)
+![หน้าการฝากเงิน](https://github.com/ggafiled/BankAccount/blob/master/img/deposit.jpg?raw=true)
 
-![หน้าประวัติการทำรายการฝั่งผู้ดูแลระบบ](https://github.com/ggafiled/BankAccount/blob/master/img/history.JPG?raw=true)
+![หน้าประวัติการทำรายการฝั่งผู้ดูแลระบบ](https://github.com/ggafiled/BankAccount/blob/master/img/history.jpg?raw=true)
 
 ![หน้าค้นหาข้อมูลสมาชิก](https://github.com/ggafiled/BankAccount/blob/master/img/member-information.PNG?raw=true)
 
-![หน้าแสดงตัวอย่างบางรายงาน](https://github.com/ggafiled/BankAccount/blob/master/img/ex-report.JPG?raw=true)
+![หน้าแสดงตัวอย่างบางรายงาน](https://github.com/ggafiled/BankAccount/blob/master/img/ex-report.jpg?raw=true)
